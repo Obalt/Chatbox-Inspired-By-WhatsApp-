@@ -56,7 +56,7 @@ const LoginContainer = styled.div`
 
 const Logo = styled.img`
 height: 300px;
-width: 300px;
+width: 255px;
 margin-bottom: 50px;
 border-radius: 100%;
 
