@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="806" alt="Chatbox1" src="https://user-images.githubusercontent.com/103001500/179402650-cf93f8af-248f-4910-95ac-e3dc7719909d.png">
 
+<img width="807" alt="Screenshot 2022-07-17 at 16 29 25" src="https://user-images.githubusercontent.com/103001500/179403216-e0ed73eb-bf4a-4829-9e9c-eafc52480be2.png">
+
 ## Getting Started
 
 First, run the development server:
