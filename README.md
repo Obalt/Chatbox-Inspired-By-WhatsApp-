@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="806" alt="Chatbox1" src="https://user-images.githubusercontent.com/103001500/179402650-cf93f8af-248f-4910-95ac-e3dc7719909d.png">
+
 ## Getting Started
 
 First, run the development server:
